@@ -22,7 +22,7 @@ export default defineValaxyConfig<UserThemeConfig>({
         enable: true,
       },
     },
-
+/*
     pages: [
       {
         name: '我的小伙伴们',
@@ -37,7 +37,7 @@ export default defineValaxyConfig<UserThemeConfig>({
         color: 'hotpink',
       },
     ],
-
+*/
     footer: {
       since: 2024,
 /*
