@@ -13,7 +13,7 @@ export default defineSiteConfig({
       },
     },
   },
-  url: 'https://valaxy.site/',
+  url: 'https://nzhymo.github.io/',
   lang: 'zh-CN',
   title: '羽沫N的小站',
   author: {
