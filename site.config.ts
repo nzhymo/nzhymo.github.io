@@ -1,6 +1,18 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
+  statistics: {
+    enable: true,
+    readTime: {
+      /**
+       * 阅读速度
+       */
+      speed: {
+        cn: 300,
+        en: 200,
+      },
+    },
+  },
   url: 'https://valaxy.site/',
   lang: 'zh-CN',
   title: '羽沫N的小站',
@@ -93,6 +105,7 @@ export default defineSiteConfig({
     enable: false,
   },
 
+/*
   sponsor: {
     enable: true,
     title: '我很可爱，请给我钱！',
@@ -117,5 +130,6 @@ export default defineSiteConfig({
       },
     ],
   },
+*/
 
 })
