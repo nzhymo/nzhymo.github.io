@@ -21,7 +21,7 @@ export default defineSiteConfig({
   },
   description: 'Valaxy Theme Yun Preview.',
   social: [
-    {
+/*   {
       name: 'RSS',
       link: '/atom.xml',
       icon: 'i-ri-rss-line',
@@ -33,12 +33,14 @@ export default defineSiteConfig({
       icon: 'i-ri-qq-line',
       color: '#12B7F5',
     },
+*/
     {
       name: 'GitHub',
-      link: 'https://github.com/YunYouJun',
+      link: 'https://github.com/nzhymo',
       icon: 'i-ri-github-line',
       color: '#6e5494',
     },
+/*
     {
       name: '微博',
       link: 'https://weibo.com/jizhideyunyoujun',
@@ -99,15 +101,17 @@ export default defineSiteConfig({
       icon: 'i-ri-train-line',
       color: 'var(--va-c-text)',
     },
+*/
   ],
+
 
   search: {
     enable: false,
   },
 
-/*
+
   sponsor: {
-    enable: true,
+    enable: false,
     title: '我很可爱，请给我钱！',
     methods: [
       {
@@ -130,6 +134,6 @@ export default defineSiteConfig({
       },
     ],
   },
-*/
+
 
 })
