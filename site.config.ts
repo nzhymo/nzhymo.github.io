@@ -18,6 +18,7 @@ export default defineSiteConfig({
   title: '羽沫N的小站',
   author: {
     name: '羽沫N',
+    avatar: 'https://cdn.jsdelivr.net/gh/nzhymo/img-valaxy/24/04/26-15-07-51.webp',
   },
   description: '不会飞的蝴蝶与天空之𩾇',
   subtitle: '心之梦 | 书之海——',
