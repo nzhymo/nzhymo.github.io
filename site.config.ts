@@ -19,7 +19,8 @@ export default defineSiteConfig({
   author: {
     name: '羽沫N',
   },
-  description: 'Valaxy Theme Yun Preview.',
+  description: '不会飞的蝴蝶与天空之𩾇',
+  subtitle: '心之梦 | 书之海——',
   social: [
 /*   {
       name: 'RSS',
