@@ -12,7 +12,7 @@ top: 1
 
 ## Valaxy
 
-Next Generation Static Blog Framework.
+Next Generation Static Blog Framework测试.
 
 Write your first post!
 
