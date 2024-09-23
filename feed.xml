@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>羽沫N的小站</title>
+        <link>https://nzhymo.github.io/</link>
+        <description>不会飞的蝴蝶与天空之𩾇</description>
+        <lastBuildDate>Mon, 23 Sep 2024 06:50:59 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>羽沫N的小站</title>
+            <url>https://cdn.jsdelivr.net/gh/nzhymo/img-valaxy/24/04/26-15-07-51.webp</url>
+            <link>https://nzhymo.github.io/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2024 © 羽沫N</copyright>
+        <atom:link href="https://nzhymo.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[设置共享打印机]]></title>
+            <link>https://nzhymo.github.io/posts/shared-printer</link>
+            <guid>https://nzhymo.github.io/posts/shared-printer</guid>
+            <pubDate>Thu, 18 Apr 2024 11:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[<p>共享打印机的设置是一个巨坑，各种千奇百怪的错误，令人头疼。很多是由windows系统更新导致的，设置共享打印机要顺便把更新禁掉。</p>
+]]></content:encoded>
+            <author>i@valaxy.site (羽沫N)</author>
+        </item>
+        <item>
+            <title><![CDATA[访问指定域名使用特定DNS服务器地址]]></title>
+            <link>https://nzhymo.github.io/posts/single-DNS</link>
+            <guid>https://nzhymo.github.io/posts/single-DNS</guid>
+            <pubDate>Fri, 12 Apr 2024 15:41:32 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>前言</h2>
+<p>访问预算系统时发现，配公司的DNS地址无法访问，需要改成别的如114DNS才可访问，但很多网站又只有公司DNS才能访问，频繁修改DNS地址非常麻烦。</p>
+<p>最后发现在组策略编辑器中可以进行设</p>
+]]></content:encoded>
+            <author>i@valaxy.site (羽沫N)</author>
+        </item>
+        <item>
+            <title><![CDATA[Hello, Valaxy!]]></title>
+            <link>https://nzhymo.github.io/posts/hello-valaxy</link>
+            <guid>https://nzhymo.github.io/posts/hello-valaxy</guid>
+            <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework测试43333335.</p>
+<p>Write your first post!35</p>
+<h2>Usage</h2>
+<p>Mo</p>
+]]></content:encoded>
+            <author>i@valaxy.site (羽沫N)</author>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nzhymo.github.io/</id>
+    <title>羽沫N的小站</title>
+    <updated>2024-09-23T06:50:59.113Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>羽沫N</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://nzhymo.github.io/"/>
+    <link rel="self" href="https://nzhymo.github.io/atom.xml"/>
+    <subtitle>不会飞的蝴蝶与天空之𩾇</subtitle>
+    <logo>https://cdn.jsdelivr.net/gh/nzhymo/img-valaxy/24/04/26-15-07-51.webp</logo>
+    <icon>https://nzhymo.github.io/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2024 © 羽沫N</rights>
+    <entry>
+        <title type="html"><![CDATA[设置共享打印机]]></title>
+        <id>https://nzhymo.github.io/posts/shared-printer</id>
+        <link href="https://nzhymo.github.io/posts/shared-printer"/>
+        <updated>2024-04-18T11:14:16.000Z</updated>
+        <content type="html"><![CDATA[<p>共享打印机的设置是一个巨坑，各种千奇百怪的错误，令人头疼。很多是由windows系统更新导致的，设置共享打印机要顺便把更新禁掉。</p>
+]]></content>
+        <author>
+            <name>羽沫N</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-04-18T11:14:16.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[访问指定域名使用特定DNS服务器地址]]></title>
+        <id>https://nzhymo.github.io/posts/single-DNS</id>
+        <link href="https://nzhymo.github.io/posts/single-DNS"/>
+        <updated>2024-04-12T15:41:32.000Z</updated>
+        <content type="html"><![CDATA[<h2>前言</h2>
+<p>访问预算系统时发现，配公司的DNS地址无法访问，需要改成别的如114DNS才可访问，但很多网站又只有公司DNS才能访问，频繁修改DNS地址非常麻烦。</p>
+<p>最后发现在组策略编辑器中可以进行设</p>
+]]></content>
+        <author>
+            <name>羽沫N</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-04-12T15:41:32.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello, Valaxy!]]></title>
+        <id>https://nzhymo.github.io/posts/hello-valaxy</id>
+        <link href="https://nzhymo.github.io/posts/hello-valaxy"/>
+        <updated>2024-04-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework测试43333335.</p>
+<p>Write your first post!35</p>
+<h2>Usage</h2>
+<p>Mo</p>
+]]></content>
+        <author>
+            <name>羽沫N</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-04-01T00:00:00.000Z</published>
+    </entry>
+</feed>
