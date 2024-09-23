@@ -14,7 +14,7 @@ top: 1
 
 Next Generation Static Blog Framework测试43333335.
 
-Write your first post!
+Write your first post!35
 
 ## Usage
 
